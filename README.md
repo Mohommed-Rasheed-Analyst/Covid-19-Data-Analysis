@@ -39,6 +39,8 @@ The project uses COVID-19 datasets containing confirmed cases, deaths and recove
 
 The data contains country and province/state level information, which was cleaned and aggregated where required for the analysis.
 
+The dataset file is not included in this repository and needs to be provided separately to run the notebook.
+
 ## Notebook
 
 The analysis was done using Google Colab and is available in:
